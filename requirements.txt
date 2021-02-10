@@ -84,5 +84,5 @@ passlib
 tensorflow
 scikit-learn
 keras
-torch
+# torch
 opencv-python
